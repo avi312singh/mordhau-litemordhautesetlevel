@@ -1,7 +1,7 @@
 # Welcome to MigraineCentral Server
 
 ### 🔗 Join our Discord for updates and community events!  
-➡ [**Click here to join Discord**](https://discord.gg/tQ59EgYV)
+➡ [https://discord.gg/tQ59EgYV](https://discord.gg/tQ59EgYV)
 
 ## Map Zones  
 ![Map Zones](https://i.ibb.co/99yBM5Vz/image.png)
