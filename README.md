@@ -4,7 +4,7 @@
 ➡ [**Click here to join Discord**](https://discord.gg/tQ59EgYV)
 
 ## Map Zones  
-![Map Zones](https://i.ibb.co/LdQhpgdB/125160253-6-image.png)
+![Map Zones](https://i.ibb.co/99yBM5Vz/image.png)
 
 ## Server Rules  
 🔴 **Red Zone** → Duel Zone (Respect 1v1 fights)  
