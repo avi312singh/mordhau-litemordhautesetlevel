@@ -1,13 +1,20 @@
-# Welcome to MigraineCentral Server
+# WELCOME TO MIGRAINECENTRAL SERVER
 
-### 🔗 Join our Discord for updates and community events!  
-CLICK HERE: https://discord.gg/tQ59EgYV  
+### 🔗 JOIN OUR DISCORD FOR UPDATES AND COMMUNITY EVENTS!  
+👉 CLICK HERE: https://discord.gg/tQ59EgYV 👈  
 
-## Map Zones  
-![Map Zones](https://i.ibb.co/Bp5S0Mb/image.png)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-## Try to follow  
-🔴 **Red Zone** → Duel Zone (Respect 1v1 fights)  
-🟢 **Green Zone** → Free-for-All (No rules, pure chaos)  
+## MAP ZONES  
+![Map Zones](https://i.ibb.co/Bp5S0Mb/image.png)  
 
-### Have fun and enjoy the pain!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+## 🔥 TRY TO FOLLOW THE RULES 🔥  
+
+⚔ **DUEL ZONE** (Red Area) → 1v1 fights only. No interruptions!  
+⚡ **FREE-FOR-ALL** (Green Area) → Anything goes. Fight for survival!  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+💀 **HAVE FUN AND EMBRACE THE PAIN!** 💀  
