@@ -11,4 +11,3 @@
 🟢 **Green Zone** → Free-for-All (No rules, pure chaos)  
 
 ### Enjoy your time on the server and have fun!  
-💀 *Break the rules and you may face the banhammer!*  
