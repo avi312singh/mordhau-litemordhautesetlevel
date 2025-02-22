@@ -1,8 +1,7 @@
 # WELCOME TO MIGRAINECENTRAL SERVER
 
-JOIN THE MIGRAINECENTRAL DISCORD for: VIP, Admin and help keep Mordhau alive!  
-<https://discord.gg/tQ59EgYV>  
-
+JOIN THE MIGRAINECENTRAL DISCORD for: VIP, Admin, submit reports and help keep Mordhau alive!    
+[https://discord.gg/tQ59EgYV](https://discord.gg/tQ59EgYV)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
 ## MAP ZONES  
