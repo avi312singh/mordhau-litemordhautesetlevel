@@ -1,29 +1,21 @@
-### **1️⃣ Simple Inline Format (Most Likely)**
-CLICK ME: https://discord.gg/tQ59EgYV  
+# WELCOME TO MIGRAINECENTRAL SERVER
 
-### **2️⃣ Without Colon**
-CLICK ME https://discord.gg/tQ59EgYV  
+JOIN THE MIGRAINECENTRAL DISCORD for: VIP, Admin, submit reports and help keep Mordhau alive!    
 
-### **3️⃣ Spacing Trick (Double Space After Colon)**
-CLICK ME:  https://discord.gg/tQ59EgYV  
+<a id="https://discord.gg/tQ59EgYV">https://discord.gg/tQ59EgYV</>
 
-### **4️⃣ Full Text Bracketed**
-[CLICK ME: https://discord.gg/tQ59EgYV]  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-### **5️⃣ Using `< >` for Full Auto-Link**
-<CLICK ME: https://discord.gg/tQ59EgYV>  
+## MAP ZONES  
+![](https://i.ibb.co/Bp5S0Mb/image.png)  
 
-### **6️⃣ Markdown Link Formatting (May Not Work)**
-[CLICK ME: https://discord.gg/tQ59EgYV](https://discord.gg/tQ59EgYV)  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-### **7️⃣ HTML Style (Unlikely But Worth Trying)**
-<a href="https://discord.gg/tQ59EgYV">CLICK ME: https://discord.gg/tQ59EgYV</a>  
+## TRY TO FOLLOW THE RULES  
 
-### **8️⃣ ASCII Decoration (Emphasizing the Clickable Area)**
-✦ CLICK ME: https://discord.gg/tQ59EgYV ✦  
+- **DUEL ZONE (Red Area)** → 1v1 fights only. No interruptions!  
+- **FREE-FOR-ALL (Green Area)** → Anything goes. Fight for survival!  
 
-### **9️⃣ Pipe Trick (Vertical Bars)**
-| CLICK ME: https://discord.gg/tQ59EgYV |  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-### **🔟 Adding a Period (Forces Auto-Link in Some Parsers)**
-CLICK ME: https://discord.gg/tQ59EgYV. 
+**HAVE FUN AND EMBRACE THE PAIN!**  
