@@ -2,7 +2,7 @@
 
 JOIN THE MIGRAINECENTRAL DISCORD for: VIP, Admin, submit reports and help keep Mordhau alive!    
 
-[https://discord.gg/tQ59EgYV](https://discord.gg/tQ59EgYV)
+[color=#6495ED]https://discord.gg/tQ59EgYV[/color]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
